@@ -7,3 +7,4 @@
 使用言語：Fortran
 開発環境：Visual Studio 2005
 実行方法：ひずみ制御せプログラムを回している、node.txtなどのtxtファイルにモデル情報をいれる
+　　　　　相当応力と粘塑性ひずみはparaviewで見れる
